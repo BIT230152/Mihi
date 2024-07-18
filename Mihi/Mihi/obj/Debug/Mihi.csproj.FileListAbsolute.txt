@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Mihi\Mihi\bin\Debug\Mihi.exe.config
+C:\Users\ASUS\source\repos\Mihi\Mihi\bin\Debug\Mihi.exe
+C:\Users\ASUS\source\repos\Mihi\Mihi\bin\Debug\Mihi.pdb
+C:\Users\ASUS\source\repos\Mihi\Mihi\obj\Debug\Mihi.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Mihi\Mihi\obj\Debug\Mihi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Mihi\Mihi\obj\Debug\Mihi.exe
+C:\Users\ASUS\source\repos\Mihi\Mihi\obj\Debug\Mihi.pdb
